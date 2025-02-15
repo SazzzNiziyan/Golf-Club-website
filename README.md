@@ -7,7 +7,7 @@ Welcome to the Golf Club Website repository! This project is practise project th
 
 This website is designed to provide information about our golf club, including facilities, services, and events. It features a responsive layout, easy navigation, and engaging animations to enhance the user experience.
 
-![Golf Club]((https://github.com/SazzzNiziyan/Golf-Club-website/blob/main/Screenshot%202024-08-30%20111718.png))
+![Golf Club](https://github.com/SazzzNiziyan/Golf-Club-website/blob/0595902611ce466f315d8d4003996715a2b0b0ed/Screenshot%202024-08-30%20111718.png))
 
 ## Features
 
